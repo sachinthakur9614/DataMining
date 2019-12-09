@@ -1,0 +1,8 @@
+@Author : Alwin Jospeh
+@Date : 09/12/2019
+
+The program requires inputs
+1. file name in <filename.csv> format
+2. the program then ask for the column name
+
+The program outpus the normalized values
