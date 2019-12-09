@@ -87,15 +87,7 @@ def bin_by_median(filepath,column,numrows,bin_num):
 """
 
 
-filepath = "D:\\MCA-CHRSIT\\MCA -IV\\DATA MINING LAB\\diabetes.csv"
-column = "Glucose"
-numrows = 50
-bin_num = 5
 
-bin_1=[]
-bin_1 = bin_by_median(filepath,column,numrows,bin_num)
-for i in bin_1:
-    print("bin data is",i)
 
 
 
