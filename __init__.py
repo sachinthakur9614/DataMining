@@ -72,22 +72,3 @@ def bin_by_median(filepath,column,numrows,bin_num):
         
         return bin_1
           
-"""
-            med2 = np.median((bins[1]))
-            for x in bins[1]:
-                bin_2.append(med2)
-            print("2nd Bin:")
-            print(bin_2[0])
-            med3 = np.median((bins[2]))
-            for x in bins[2]:
-                bin_3.append(med3)
-            print("3rd Bin:")
-            print(bin_3[0])
-            
-"""
-
-
-
-
-
-
